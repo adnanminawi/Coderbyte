@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(222, 226, 229);
+}
+h1{
+    font-size: 40px;
+}
+input{
+    width: 20%;
+    padding: 5px;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+h2{
+    font-size: 25px;
+    padding: 5px;
+    
+}
